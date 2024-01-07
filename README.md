@@ -15,7 +15,7 @@ I have implemented Markup several times in different languages and used it for
 for writing all three of my books: _[Practical Common
 Lisp](http://www.gigamonkeys.com/book/)_, _[Coders at
 Work](http://www.codersatwork.com/)_, and _[The
-Grid](https://www.amazon.com/gp/product/B072K1JM33/ref=as_li_tl?ie=UTF8&tag=gigamonkeys-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072K1JM33&linkId=a276d7ed7eda8c1d56059b8e07273dca)_.
+Grid](https://www.amazon.com/gp/product/B072K1JM33/ref=as_li_tl?ie=UTF8&tag=gigamonkeys-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072K1JM33&linkId=a276d7ed7eda8c1d56059b8e07273dca)_
 as well as the essays on my website.
 
 For various reasons I need an implementation of Markup in Python so this is
